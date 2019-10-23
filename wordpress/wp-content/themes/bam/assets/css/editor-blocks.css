@@ -1,0 +1,86 @@
+.edit-post-visual-editor .editor-block-list__block,
+.editor-default-block-appender textarea.editor-default-block-appender__content {
+	font-size: 18px;
+    font-size: 1.125rem;
+    line-height: 1.7;
+}
+
+.editor-default-block-appender textarea.editor-default-block-appender__content {
+	font-family: "Source Sans Pro", "Helvetica Neue", helvetica, arial, sans-serif;
+}
+
+.editor-post-title__block .editor-post-title__input {
+	color: #000000;
+	font-family: "Source Sans Pro", "Helvetica Neue", helvetica, arial, sans-serif;
+    font-size: 36px;
+    font-size: 2.25rem;
+	font-weight: bold;
+}
+
+.edit-post-visual-editor h1,
+.edit-post-visual-editor h2,
+.edit-post-visual-editor h3,
+.edit-post-visual-editor h4,
+.edit-post-visual-editor h5,
+.edit-post-visual-editor h6 {
+	font-weight: 700;
+}
+
+.editor-block-list__block h1 {
+    font-size: 36px;
+}
+  
+.editor-block-list__block h2 {
+    font-size: 32px;
+}
+  
+.editor-block-list__block h3 {
+    font-size: 28px;
+}
+  
+.editor-block-list__block h4 {
+    font-size: 24px;
+}
+  
+.editor-block-list__block h5 {
+    font-size: 20px;
+}
+  
+.editor-block-list__block h6 {
+    font-size: 16px;
+}
+
+/* Main column width */
+
+.editor-styles-wrapper {
+	max-width: 100% !important; /* Override where editor-style.css is affecting this. */
+}
+
+.wp-block {
+	max-width: 960px; /* Based on one-column post width; 930px + 30px to account for padding. */
+}
+
+/* Alignments */
+
+.edit-post-visual-editor .alignleft {
+	margin-right: 1.5em;
+}
+
+.edit-post-visual-editor .alignright {
+	margin-left: 1.5em;
+}
+
+/* List styles */
+.edit-post-visual-editor ul.wp-block-gallery {
+    margin: 0 0 30px 0;
+    padding: 0;
+}
+
+/* Quotes */
+.editor-styles-wrapper .wp-block-pullquote blockquote {
+    border-left: none;
+}
+
+.wp-block-quote[style*="text-align:right"], .wp-block-quote[style*="text-align: right"] {
+    border-right: 4px solid #FF4F4F;
+}

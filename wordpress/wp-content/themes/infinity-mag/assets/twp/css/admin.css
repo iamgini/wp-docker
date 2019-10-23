@@ -1,0 +1,11 @@
+.widget-content .image-preview-wrap {
+    margin: 20px auto;
+}
+
+.widget-content .image-preview-wrap img {
+    max-width: 100%;
+}
+
+.settings-error.is-dismissible{
+    display: block;
+}

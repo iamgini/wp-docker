@@ -1,0 +1,1168 @@
+# Translation of Themes - Bam in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Bam package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-09 18:29:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Bam\n"
+
+#. Description of the theme
+msgid "Bam WordPress theme is a great flexible theme for blogging sites. Even this is a free theme you will find most of the advanced theme customizer options that you may find only on premium themes like, typography options, header layout options, advanced color options, blog layout options, social media options, etc. Just install the theme and customize it as you like. Check the demo at: https://themezhut.com/demo/bam/"
+msgstr "El tema Bam para WordPress es un gran tema flexible para sitios de blog. Aunque este es un tema gratuito, encontrarás la mayoría de las opciones avanzadas del personalizador de temas que solo puedes encontrar en temas premium, como opciones de tipografía, opciones de diseño de la cabecera, opciones avanzadas de color, opciones de diseño del blog, opciones de medios sociales, etc. Simplemente instala el tema y personalízalo a tu gusto. Revisa la demostración en: https://themezhut.com/demo/bam/"
+
+#. Theme Name of the theme
+msgid "Bam"
+msgstr "Bam"
+
+#: inc/customizer/settings/pages.php:53
+msgid "Page Layout"
+msgstr "Diseño de la página"
+
+#: inc/customizer/settings/pages.php:31
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/customizer/section-pro/class-upsell-customize.php:77
+msgid "Get Bam Pro"
+msgstr "Consigue Bam Pro"
+
+#: inc/customizer/section-pro/class-upsell-customize.php:76
+msgid "Ready for more?"
+msgstr "¿Listo para más?"
+
+#: inc/theme-info-page.php:68
+msgid "Theme Preview"
+msgstr "Vista previa del tema"
+
+#: inc/theme-info-page.php:67
+msgid "See the theme preview of free version."
+msgstr "Ver la vista previa de la versión gratuita del tema."
+
+#: inc/theme-info-page.php:66
+msgid "Theme Demo"
+msgstr "Demo del tema"
+
+#: inc/theme-info-page.php:59
+msgid "Theme Details."
+msgstr "Detalles del tema."
+
+#: inc/theme-info-page.php:58
+msgid "Know all the details about Bam theme."
+msgstr "Conoce todos los detalles sobre el tema de Bam."
+
+#: inc/theme-info-page.php:57
+msgid "Theme Info"
+msgstr "Información del tema"
+
+#: inc/theme-info-page.php:50
+msgid "Read the documentation."
+msgstr "Lee la documentación."
+
+#: inc/theme-info-page.php:49
+msgid "Need to learn all about Bam? Read the theme documentation carefully."
+msgstr "¿Necesitas saber todo sobre Bam? Lea detenidamente la documentación del tema."
+
+#: inc/theme-info-page.php:48
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: inc/theme-info-page.php:41
+msgid "Go to customizer"
+msgstr "Ir al personalizador"
+
+#: inc/theme-info-page.php:40
+msgid "All the Bam theme settings are located at the customizer. Start customizing your website with customizer."
+msgstr "Todos los ajustes del tema Bam se encuentran en el personalizador. Empieza a personalizar tu web con el personalizador."
+
+#: inc/theme-info-page.php:39
+msgid "Theme Settings"
+msgstr "Ajustes del tema"
+
+#: inc/theme-info-page.php:30
+msgid "Welcome to Bam WordPress Theme"
+msgstr "Bienvenido al tema de WordPress Bam"
+
+#: inc/theme-info-page.php:16 inc/theme-info-page.php:18
+msgid "Bam Theme"
+msgstr "Tema Bam"
+
+#: comments.php:67
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:41
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentario en &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:35
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un pensamiento en &ldquo;%1$s&rdquo;"
+
+#: partials/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: partials/content-none.php:37
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero no encaja nada con los términos de la búsqueda. Inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: partials/content-none.php:24
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: partials/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#: partials/content.php:56
+msgid "Read More"
+msgstr "Leer más"
+
+#: partials/single/related-posts.php:44
+msgid "You might also like"
+msgstr "También te puede gustar"
+
+#. translators: %s: author name
+#: partials/single/authorbox.php:13
+msgid "View all posts by %s &rarr;"
+msgstr "Ver todas las entradas de %s &rarr;"
+
+#: partials/content-page.php:26 partials/single/content.php:64
+msgid "Pages:"
+msgstr "Páginas:"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: partials/single/content.php:53
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Continuar leyendo<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: partials/content-page.php:41 inc/template-tags.php:147
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar<span class=\"screen-reader-text\">%s</span>"
+
+#: inc/template-tags.php:114
+msgid "Tagged"
+msgstr "Etiquetado"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:92
+msgid " / "
+msgstr " / "
+
+#. translators: %s: post author.
+#: inc/template-tags.php:55
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/customizer/custom-controls/fonts/fonts.php:858
+msgid "Google Fonts"
+msgstr "Fuentes de Google"
+
+#: inc/customizer/custom-controls/fonts/class-fonts-control.php:31
+#: inc/customizer/custom-controls/fonts/class-fonts-control.php:42
+#: inc/customizer/custom-controls/fonts/fonts.php:856
+msgid "Standard Fonts"
+msgstr "Fuentes estandard"
+
+#: inc/customizer/settings/social.php:50
+msgid "Open social link in new Window?"
+msgstr "¿Abrir enlace social en una nueva ventana?"
+
+#: inc/customizer/settings/social.php:29
+msgid "Social Media"
+msgstr "Medios sociales"
+
+#: inc/customizer/settings/topbar.php:333
+#: inc/customizer/settings/topbar.php:381
+#: inc/customizer/settings/topbar.php:405
+msgid "Social Links Color: Hover"
+msgstr "Color de los enlaces sociales al pasar por encima"
+
+#: inc/customizer/settings/topbar.php:309
+#: inc/customizer/settings/topbar.php:357
+msgid "Social Links Color"
+msgstr "Color de los enlaces sociales"
+
+#: inc/customizer/settings/topbar.php:285
+msgid "Light"
+msgstr "Claro"
+
+#: inc/customizer/settings/topbar.php:284
+msgid "Dark"
+msgstr "Oscuro"
+
+#: inc/customizer/settings/topbar.php:283
+msgid "Colored"
+msgstr "Coloreado"
+
+#: inc/customizer/settings/topbar.php:281
+msgid "Social Link Style"
+msgstr "Estilo de los enlaces sociales"
+
+#: inc/customizer/settings/topbar.php:261
+msgid "Display Social Media Icons"
+msgstr "Mostrar iconos de redes sociales"
+
+#: inc/customizer/settings/topbar.php:239
+msgid "Social"
+msgstr "Redes sociales"
+
+#: inc/customizer/settings/topbar.php:227
+msgid "Border Color"
+msgstr "Color del borde"
+
+#: inc/customizer/settings/topbar.php:83
+msgid "Top Bar Width"
+msgstr "Área superior del widget de la barra izquierda"
+
+#: inc/customizer/settings/topbar.php:63
+msgid "Display Top Bar"
+msgstr "Mostrar barra superior"
+
+#: inc/customizer/settings/topbar.php:32
+msgid "Top Bar"
+msgstr "Barra superior"
+
+#: inc/customizer/settings/typography.php:557
+msgid "Color"
+msgstr "Color"
+
+#: inc/customizer/settings/typography.php:523
+msgid "Line Height"
+msgstr "Altura de la línea"
+
+#: inc/customizer/settings/typography.php:495
+msgid "You can add: px-em-rem"
+msgstr "Puedes añadir: px-em-rem"
+
+#: inc/customizer/settings/typography.php:494
+msgid "Font Size"
+msgstr "Tamaño de la fuente"
+
+#: inc/customizer/settings/typography.php:444
+msgid "None"
+msgstr "Ninguna"
+
+#: inc/customizer/settings/typography.php:443
+msgid "Lowercase"
+msgstr "Minúsculas"
+
+#: inc/customizer/settings/typography.php:442
+msgid "Capitalize"
+msgstr "Capitalizar"
+
+#: inc/customizer/settings/typography.php:441
+msgid "Uppercase"
+msgstr "Mayúsculas"
+
+#: inc/customizer/settings/typography.php:438
+msgid "Text Transform"
+msgstr "Transformación de texto"
+
+#: inc/customizer/settings/typography.php:408
+msgid "Italic"
+msgstr "Itálica"
+
+#: inc/customizer/settings/typography.php:407
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/customizer/settings/typography.php:404
+msgid "Font Style"
+msgstr "Estilo de la fuente"
+
+#: inc/customizer/settings/typography.php:375
+msgid "Black: 900"
+msgstr "Negrita: 900"
+
+#: inc/customizer/settings/typography.php:374
+msgid "Extra Bold: 800"
+msgstr "Extra negrita: 800"
+
+#: inc/customizer/settings/typography.php:373
+msgid "Bold: 700"
+msgstr "Negrita: 700"
+
+#: inc/customizer/settings/typography.php:372
+msgid "Semi Bold: 600"
+msgstr "Semi negrita: 600"
+
+#: inc/customizer/settings/typography.php:371
+msgid "Medium: 500"
+msgstr "Medium: 500"
+
+#: inc/customizer/settings/typography.php:370
+msgid "Normal: 400"
+msgstr "Normal: 400"
+
+#: inc/customizer/settings/typography.php:369
+msgid "Light: 300"
+msgstr "Claro: 300"
+
+#: inc/customizer/settings/typography.php:368
+msgid "Extra Light: 200"
+msgstr "Extra Ligero: 200"
+
+#: inc/customizer/settings/typography.php:367
+msgid "Thin: 100"
+msgstr "Thin: 100"
+
+#: inc/customizer/settings/typography.php:366
+#: inc/customizer/settings/typography.php:406
+#: inc/customizer/settings/typography.php:440
+#: inc/customizer/custom-controls/fonts/class-fonts-control.php:26
+msgid "Default"
+msgstr "Por defecto"
+
+#: inc/customizer/settings/typography.php:364
+msgid "Font Weight"
+msgstr "Peso de la fuente"
+
+#: inc/customizer/settings/typography.php:334
+msgid "Font Family"
+msgstr "Familia de fuentes"
+
+#: inc/customizer/settings/typography.php:271
+msgid "vietnamese"
+msgstr "vietnamita"
+
+#: inc/customizer/settings/typography.php:270
+msgid "greek-ext"
+msgstr "greco-extenso"
+
+#: inc/customizer/settings/typography.php:269
+msgid "greek"
+msgstr "griego"
+
+#: inc/customizer/settings/typography.php:268
+msgid "cyrillic-ext"
+msgstr "cirílico-ext"
+
+#: inc/customizer/settings/typography.php:267
+msgid "cyrillic"
+msgstr "cirílico"
+
+#: inc/customizer/settings/typography.php:266
+msgid "latin-ext"
+msgstr "latin-ext"
+
+#: inc/customizer/settings/typography.php:265
+msgid "latin"
+msgstr "latino"
+
+#: inc/customizer/settings/typography.php:263
+msgid "Font Subsets"
+msgstr "Subconjunto de las fuentes"
+
+#: inc/customizer/settings/typography.php:243
+msgid "Disable Google Fonts"
+msgstr "Desactivar Google Fonts"
+
+#: inc/customizer/settings/typography.php:212
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/customizer/settings/typography.php:183
+msgid "Widget Title"
+msgstr "Título del widget"
+
+#: inc/customizer/settings/typography.php:171
+msgid "Page Title"
+msgstr "Título de la página"
+
+#: inc/customizer/settings/typography.php:159
+msgid "Single Post Content"
+msgstr "Contenido de entrada individual"
+
+#: inc/customizer/settings/typography.php:147
+msgid "Single Post Entry Title"
+msgstr "Título de la entrada individual"
+
+#: inc/customizer/settings/typography.php:135
+msgid "Blog Entry Title"
+msgstr "Título"
+
+#: inc/customizer/settings/typography.php:123
+msgid "Main Menu ( Drop Down )"
+msgstr "Menú principal ( Desplegable )"
+
+#: inc/customizer/settings/typography.php:100
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/settings/typography.php:88
+msgid "Heading 4 (h4)"
+msgstr "Titulo 4 (h4)"
+
+#: inc/customizer/settings/typography.php:76
+msgid "Heading 3 (h3)"
+msgstr "Titulo 3 (h3)"
+
+#: inc/customizer/settings/typography.php:64
+msgid "Heading 2 (h2)"
+msgstr "Titulo 2 (h2)"
+
+#: inc/customizer/settings/typography.php:52
+msgid "Heading 1 (h1)"
+msgstr "Titulo 1 (h1)"
+
+#: inc/customizer/settings/typography.php:41
+msgid "All Headings"
+msgstr "Todas las cabeceras"
+
+#: inc/customizer/settings/typography.php:28
+msgid "Body"
+msgstr "Cuerpo"
+
+#: inc/customizer/settings/general.php:161
+msgid "Sidebar Width (%)"
+msgstr "Ancho de barra lateral (%)"
+
+#: inc/customizer/settings/general.php:139
+msgid "Content Width (%)"
+msgstr "Anchura del contenido (%)"
+
+#: inc/customizer/settings/general.php:116
+msgid "Boxed Width (px)"
+msgstr "Anchura de la caja (px)"
+
+#: inc/customizer/settings/general.php:93
+msgid "Container Width (px)"
+msgstr "Anchura del contenedor (px)"
+
+#: inc/customizer/settings/general.php:76
+msgid "Separate Containers"
+msgstr "Contenedores separados"
+
+#: inc/customizer/settings/general.php:75
+msgid "Single Container"
+msgstr "Contenedor único"
+
+#: inc/customizer/settings/general.php:73
+msgid "Content Layout"
+msgstr "Disposición del contenido"
+
+#: inc/customizer/settings/general.php:52
+msgid "Boxed"
+msgstr "Ancho fijo"
+
+#: inc/customizer/settings/general.php:51
+msgid "Wide"
+msgstr "Ancho"
+
+#: inc/customizer/settings/general.php:49
+msgid "Site Layout"
+msgstr "Disposición del sitio"
+
+#: inc/customizer/settings/general.php:30
+msgid "General Options"
+msgstr "Opciones generales"
+
+#: inc/customizer/settings/footer.php:303
+msgid "Link Color:Hover"
+msgstr "Color de los enlaces:al pasar el cursor"
+
+#: inc/customizer/settings/topbar.php:155
+#: inc/customizer/settings/footer.php:257
+msgid "Text Color"
+msgstr "Color de texto"
+
+#: inc/customizer/settings/footer.php:212
+msgid "Copyright Text"
+msgstr "Texto de copyright"
+
+#: inc/customizer/settings/footer.php:192
+msgid "Footer Bottom"
+msgstr "Fondo del pie de página"
+
+#: inc/customizer/settings/footer.php:181
+msgid "Widget Area Link Color:Hover"
+msgstr "Color del enlace del área de widgets: al pasar el cursor"
+
+#: inc/customizer/settings/footer.php:158
+msgid "Widget Area Link Color"
+msgstr "Color del enlace del área de widgets"
+
+#: inc/customizer/settings/footer.php:135
+msgid "Widget Area Text Color"
+msgstr "Color del texto del área de widgets"
+
+#: inc/customizer/settings/footer.php:112
+msgid "Widget Area Background Color"
+msgstr "Color de fondo del área de widgets"
+
+#: inc/customizer/settings/footer.php:90
+msgid "Footer widget area fullwidth?"
+msgstr "¿Área de widget de pie de página de ancho completo?"
+
+#: inc/customizer/settings/footer.php:66
+msgid "1"
+msgstr "1"
+
+#: inc/customizer/settings/footer.php:64
+msgid "Widget Columns"
+msgstr "Columnas de widget"
+
+#: inc/customizer/settings/footer.php:43
+msgid "Footer Widgets"
+msgstr "Widgets del pie de página"
+
+#: inc/customizer/settings/footer.php:33
+msgid "Footer"
+msgstr "Pie"
+
+#: inc/customizer/settings/blog.php:625
+msgid "Related Posts Count"
+msgstr "Numero de entradas relacionadas"
+
+#: inc/customizer/settings/blog.php:604
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: inc/customizer/settings/blog.php:603
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/customizer/settings/blog.php:601
+msgid "Related Posts Taxonomy"
+msgstr "Taxonomía de las entradas relacionadas"
+
+#: inc/customizer/settings/blog.php:581
+msgid "Display Related Posts"
+msgstr "Mostrar entradas relacionadas"
+
+#: inc/customizer/settings/blog.php:561
+msgid "Display Author Details Box"
+msgstr "Mostrar caja de detalles del autor"
+
+#: inc/customizer/settings/blog.php:541
+msgid "Display Post Navigation"
+msgstr "Mostrar navegación en la entrada"
+
+#: inc/customizer/settings/blog.php:521
+msgid "Display Tags List"
+msgstr "Mostrar lista de etiquetas"
+
+#: inc/customizer/settings/blog.php:399
+msgid "After Post Title"
+msgstr "Después del título de la entrada"
+
+#: inc/customizer/settings/blog.php:398
+msgid "Before Post Title"
+msgstr "Antes del título de la entrada"
+
+#: inc/customizer/settings/blog.php:396
+msgid "Post Thumbnail Location"
+msgstr "Ubicación de la miniatura de la entrada"
+
+#: inc/customizer/settings/blog.php:376
+msgid "Display Featured Image"
+msgstr "Mostrar imagen destacada"
+
+#: inc/customizer/settings/blog.php:349
+msgid "Single Post Layout"
+msgstr "Diseño de la entrada individual"
+
+#: inc/customizer/settings/blog.php:327
+msgid "Single Post"
+msgstr "Entrada única"
+
+#: inc/customizer/settings/blog.php:315
+msgid "Next/Prev"
+msgstr "Siguiente/Anterior"
+
+#: inc/customizer/settings/blog.php:314
+msgid "Number"
+msgstr "Número"
+
+#: inc/customizer/settings/blog.php:312
+msgid "Blog Pagination Style"
+msgstr "Estilo de la paginación"
+
+#: inc/customizer/settings/blog.php:292 inc/customizer/settings/blog.php:501
+msgid "Display Comments Link"
+msgstr "Mostrar enlace de comentarios"
+
+#: inc/customizer/settings/topbar.php:108 inc/customizer/settings/blog.php:272
+#: inc/customizer/settings/blog.php:481
+msgid "Display Date"
+msgstr "Mostrar fecha"
+
+#: inc/customizer/settings/blog.php:251 inc/customizer/settings/blog.php:460
+msgid "Display Author Image Icon"
+msgstr "Mostrar el icono de imagen de autor"
+
+#: inc/customizer/settings/blog.php:231 inc/customizer/settings/blog.php:440
+msgid "Display Author"
+msgstr "Mostrar autor"
+
+#: inc/customizer/settings/blog.php:211 inc/customizer/settings/blog.php:420
+msgid "Display Cateogry List"
+msgstr "Mostrar lista de categorías"
+
+#: inc/customizer/settings/blog.php:191
+msgid "Display Read More Button"
+msgstr "Mostrar el botón «Leer más»"
+
+#: inc/customizer/settings/blog.php:171
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: inc/customizer/settings/blog.php:150
+msgid "No Content"
+msgstr "Sin contenido"
+
+#: inc/customizer/settings/blog.php:149
+msgid "Full Content"
+msgstr "Contenido completo"
+
+#: inc/customizer/settings/blog.php:148
+msgid "Excerpt"
+msgstr "Extracto"
+
+#: inc/customizer/settings/blog.php:146
+msgid "Content Type"
+msgstr "Tipo de contenido"
+
+#: inc/customizer/settings/blog.php:124
+msgid "6"
+msgstr "6"
+
+#: inc/customizer/settings/blog.php:123
+msgid "5"
+msgstr "5"
+
+#: inc/customizer/settings/blog.php:122 inc/customizer/settings/footer.php:69
+msgid "4"
+msgstr "4"
+
+#: inc/customizer/settings/blog.php:121 inc/customizer/settings/footer.php:68
+msgid "3"
+msgstr "3"
+
+#: inc/customizer/settings/blog.php:120 inc/customizer/settings/footer.php:67
+msgid "2"
+msgstr "2"
+
+#: inc/customizer/settings/blog.php:118
+msgid "Grid Columns"
+msgstr "Columnas en cuadrícula"
+
+#: inc/customizer/settings/blog.php:97
+msgid "Large Posts"
+msgstr "Entradas grandes"
+
+#: inc/customizer/settings/blog.php:96
+msgid "List Posts"
+msgstr "Lista de las entradas"
+
+#: inc/customizer/settings/blog.php:95
+msgid "Grid Posts"
+msgstr "Entradas en cuadrícula"
+
+#: inc/customizer/settings/blog.php:93
+msgid "Blog Style"
+msgstr "Estilo del blog"
+
+#: inc/customizer/settings/blog.php:66
+msgid "Blog Layout"
+msgstr "Diseño del Blog"
+
+#: inc/customizer/settings/blog.php:44
+msgid "Blog Entries"
+msgstr "Entradas del blog"
+
+#: inc/customizer/settings/blog.php:34
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/customizer/settings/header.php:814
+msgid "Dropdown Link Background Color: Hover"
+msgstr "Color de fondo del enlace desplegable: al pasar el cursor"
+
+#: inc/customizer/settings/header.php:792
+msgid "Dropdown Link Background Color"
+msgstr "Color de fondo del enlace desplegable"
+
+#: inc/customizer/settings/header.php:770
+msgid "Dropdown Link Color: Hover"
+msgstr "Color del enlace desplegable: al pasar el cursor"
+
+#: inc/customizer/settings/header.php:748
+msgid "Dropdown Link Color"
+msgstr "Color del enlace desplegable"
+
+#: inc/customizer/settings/header.php:726
+msgid "Dropdown Menu Background Color"
+msgstr "Color de fondo del menu desplegable"
+
+#: inc/customizer/settings/header.php:701
+msgid "Link Background Color: Hover"
+msgstr "Color de fondo del enlace: al pasar el cursor"
+
+#: inc/customizer/settings/header.php:679
+msgid "Link Background Color"
+msgstr "Color de fondo del enlace"
+
+#: inc/customizer/settings/topbar.php:203
+#: inc/customizer/settings/header.php:657
+msgid "Link Color: Hover"
+msgstr "Color de los enlaces: al pasar el cursor"
+
+#: inc/customizer/settings/topbar.php:179
+#: inc/customizer/settings/header.php:635
+#: inc/customizer/settings/footer.php:280
+msgid "Link Color"
+msgstr "Color de los enlaces"
+
+#: inc/customizer/settings/header.php:587
+#: inc/customizer/settings/header.php:611
+msgid "Menu Background Color"
+msgstr "Color de fondo del menú"
+
+#: inc/customizer/settings/header.php:565
+msgid "Display Search Box."
+msgstr "Mostrar la casilla de búsqueda."
+
+#: inc/customizer/settings/header.php:539
+msgid "Menu Align"
+msgstr "Alineación de menús"
+
+#: inc/customizer/settings/header.php:511
+msgid "Menu Height (px)"
+msgstr "Altura del menú (px)"
+
+#: inc/customizer/settings/header.php:490
+msgid "Menu Width"
+msgstr "Ancho del menú"
+
+#: partials/header/nav.php:45 inc/customizer/settings/header.php:469
+msgid "Menu"
+msgstr "Menú"
+
+#: inc/customizer/settings/header.php:456
+msgid "Border Bottom Color"
+msgstr "Color del fondo del borde"
+
+#: inc/customizer/settings/header.php:409
+#: inc/customizer/settings/header.php:433
+msgid "Header Background Color"
+msgstr "Color de fondo de la cabecera"
+
+#: inc/customizer/settings/header.php:364
+#: inc/customizer/settings/header.php:386
+msgid "Default: 0px"
+msgstr "Por defecto: 0px"
+
+#: inc/customizer/settings/header.php:341
+#: inc/customizer/settings/header.php:385
+msgid "Header Padding Bottom (px)"
+msgstr "Relleno inferior de la cabecera (px)"
+
+#: inc/customizer/settings/header.php:320
+#: inc/customizer/settings/header.php:342
+msgid "Default: 28px"
+msgstr "Por defecto: 28px"
+
+#: inc/customizer/settings/header.php:319
+#: inc/customizer/settings/header.php:363
+msgid "Header Padding Top (px)"
+msgstr "Arriba del acolchado del cabezal (px)"
+
+#: inc/customizer/settings/header.php:298
+msgid "Link header image to homepage."
+msgstr "Enlazar la imagen de la cabecera a la página de inicio."
+
+#: inc/customizer/settings/header.php:276
+msgid "Display as Header Background"
+msgstr "Mostrar como fondo de cabecera"
+
+#: inc/customizer/settings/header.php:275
+msgid "Before Site Title"
+msgstr "Antes del título del sitio"
+
+#: inc/customizer/settings/header.php:274
+msgid "After Menu"
+msgstr "Después del menú"
+
+#: inc/customizer/settings/header.php:273
+msgid "Before Menu"
+msgstr "Antes del menú"
+
+#: inc/customizer/settings/header.php:271
+msgid "Header Image Location"
+msgstr "Ubicación de la imagen de la cabecera"
+
+#: inc/customizer/settings/header.php:251
+msgid "Header Border Bottom"
+msgstr "Borde inferior de la cabecera"
+
+#: inc/customizer/settings/header.php:229
+#: inc/customizer/settings/header.php:543
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer/settings/header.php:228
+#: inc/customizer/settings/header.php:542
+msgid "Center"
+msgstr "Centro"
+
+#: inc/customizer/settings/header.php:227
+#: inc/customizer/settings/header.php:541
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer/settings/header.php:225
+msgid "Logo Alignment"
+msgstr "Alineación de logotipo"
+
+#: inc/customizer/settings/header.php:197
+msgid "Header Height (px)"
+msgstr "Altura de la cabecera (px)"
+
+#: inc/customizer/settings/topbar.php:85 inc/customizer/settings/header.php:179
+#: inc/customizer/settings/header.php:492
+msgid "Contained"
+msgstr "Contenido"
+
+#: inc/customizer/settings/header.php:177
+msgid "Header Width"
+msgstr "Ancho de la cabecera"
+
+#: inc/customizer/settings/header.php:156
+msgid "Horizontal Style"
+msgstr "Estilo horizontal"
+
+#: inc/customizer/settings/header.php:155
+msgid "Default Style"
+msgstr "Estilo por defecto"
+
+#: inc/customizer/settings/header.php:153
+msgid "Header Style"
+msgstr "Estilo de Cabecera"
+
+#: inc/customizer/settings/header.php:125
+msgid "Logo Max Height (px)"
+msgstr "Altura máxima del logo (px)"
+
+#: inc/customizer/settings/header.php:80
+msgid "Logo Max Width (px)"
+msgstr "Ancho máximo del logotipo (px)"
+
+#: inc/customizer/settings/topbar.php:42 inc/customizer/settings/header.php:42
+#: inc/customizer/settings/typography.php:222
+msgid "General"
+msgstr "General"
+
+#: inc/customizer/settings/header.php:32
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/customizer/settings/colors.php:371
+msgid "Button Text Color: Hover"
+msgstr "Color del texto del botón: al pasar el cursor"
+
+#: inc/customizer/settings/colors.php:348
+msgid "Button Background Color: Hover"
+msgstr "Color de fondo del botón: al pasar el cursor"
+
+#: inc/customizer/settings/colors.php:325
+msgid "Button Text Color"
+msgstr "Color del texto del botón"
+
+#: inc/customizer/settings/colors.php:302
+msgid "Button Background Color"
+msgstr "Color de fondo del botón"
+
+#: inc/customizer/settings/colors.php:279
+msgid "Article Meta Data Color: Hover"
+msgstr "Color de los datos meta del artículo: al pasar el cursor"
+
+#: inc/customizer/settings/colors.php:256
+msgid "Article Meta Data Color"
+msgstr "Color de los datos meta del artículo"
+
+#: inc/customizer/settings/colors.php:233
+msgid "Article Link Color: Hover"
+msgstr "Color del enlace del artículo: al pasar el cursor"
+
+#: inc/customizer/settings/colors.php:210
+msgid "Article Link Color"
+msgstr "Color del enlace del artículo"
+
+#: inc/customizer/settings/colors.php:186
+msgid "Content Background Color"
+msgstr "Color de fondo del contenido"
+
+#: inc/customizer/settings/topbar.php:131
+#: inc/customizer/settings/colors.php:162
+#: inc/customizer/settings/footer.php:234
+msgid "Background Color"
+msgstr "Color de fondo"
+
+#: inc/customizer/settings/colors.php:90 inc/customizer/settings/colors.php:138
+msgid "Outer Background Color"
+msgstr "Color de fondo exterior"
+
+#: inc/customizer/settings/colors.php:66 inc/customizer/settings/colors.php:114
+msgid "Inner Background Color"
+msgstr "Color de fondo interior"
+
+#: inc/customizer/settings/colors.php:43
+msgid "Theme Primary Color"
+msgstr "Color principal del tema"
+
+#: inc/widgets/class-tabs-widget.php:183
+msgid "No tags created."
+msgstr "No se han creado etiquetas."
+
+#: inc/widgets/class-tabs-widget.php:169
+msgid "No comments found."
+msgstr "No se encontraron comentarios."
+
+#: inc/widgets/class-tabs-widget.php:36
+msgid "Number of comments:"
+msgstr "Número de comentarios:"
+
+#: inc/widgets/class-tabs-widget.php:32
+msgid "Number of popular posts:"
+msgstr "Número de entradas populares:"
+
+#: inc/widgets/class-tabs-widget.php:15
+msgid "Displays popular posts, recent posts comments, tags in a tabbed pane."
+msgstr "Muestra, en un panel con pestañas, las entradas populares, los comentarios recientes de las entradas y las etiquetas."
+
+#: inc/widgets/class-tabs-widget.php:14
+msgid "Bam: Popular, Recent, Tags, Comments"
+msgstr "Bam: popular, reciente, etiquetas, comentarios"
+
+#: inc/widgets/class-sidebar-posts.php:52
+msgid "Ignore sticky posts."
+msgstr "Ignorar entradas fijas."
+
+#: inc/widgets/class-sidebar-posts.php:47
+msgid "Number of posts:"
+msgstr "Número de entradas:"
+
+#: inc/widgets/class-sidebar-posts.php:43
+msgid "Select a post category"
+msgstr "Selecciona una categoría de entradas"
+
+#: inc/widgets/class-sidebar-posts.php:39
+msgid "Title:"
+msgstr "Título:"
+
+#: inc/widgets/class-sidebar-posts.php:29
+msgid "Latest Posts"
+msgstr "Últimas entradas"
+
+#: inc/widgets/class-sidebar-posts.php:15
+msgid "Displays latest posts or posts from a choosen category.Use this widget in the main sidebars."
+msgstr "Muestra las últimas entradas o entradas de una categoría elegida. Utiliza este widget en las barras laterales principales."
+
+#: inc/widgets/class-sidebar-posts.php:14
+msgid "Bam: Sidebar Posts"
+msgstr "Bam: Entradas en la barra lateral"
+
+#: inc/class-meta-boxes.php:136
+msgid "Full Width Content Centered."
+msgstr "Contenido centrado de ancho completo."
+
+#: inc/class-meta-boxes.php:133 inc/customizer/settings/topbar.php:86
+#: inc/customizer/settings/header.php:180
+#: inc/customizer/settings/header.php:493
+msgid "Full Width"
+msgstr "Ancho completo"
+
+#: inc/class-meta-boxes.php:130
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/class-meta-boxes.php:127
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/class-meta-boxes.php:124
+msgid "Default Layout"
+msgstr "Estructura por defecto"
+
+#: inc/class-meta-boxes.php:38
+msgid "Select Layout"
+msgstr "Seleccionar diseño"
+
+#: inc/helpers.php:278
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/helpers.php:274
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/helpers.php:270
+msgid "Trip Advisor"
+msgstr "Trip Advisor"
+
+#: inc/helpers.php:266
+msgid "Yelp"
+msgstr "Yelp"
+
+#: inc/helpers.php:262
+msgid "Vine"
+msgstr "Vine"
+
+#: inc/helpers.php:258
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/helpers.php:254
+msgid "Flickr"
+msgstr "Flickr"
+
+#: inc/helpers.php:250
+msgid "Github"
+msgstr "Github"
+
+#: inc/helpers.php:246
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/helpers.php:242
+msgid "VK"
+msgstr "VK"
+
+#: inc/helpers.php:238
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/helpers.php:234
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/helpers.php:230
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/helpers.php:226
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/helpers.php:222
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/helpers.php:218
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/helpers.php:214
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/helpers.php:210
+msgid "Facebook"
+msgstr "Facebook"
+
+#: single.php:37
+msgid "Previous post:"
+msgstr "Entrada anterior:"
+
+#: single.php:36
+msgid "Previous Post"
+msgstr "Entrada anterior"
+
+#: single.php:34
+msgid "Next post:"
+msgstr "Entrada siguiente:"
+
+#: single.php:33
+msgid "Next Post"
+msgstr "Siguiente entrada"
+
+#: 404.php:27
+msgid "It looks like nothing was found at this location."
+msgstr "Parece que no se ha encontrado nada en esta ubicación."
+
+#: 404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! Esta página no se encuentra."
+
+#. translators: %s: search query.
+#: search.php:38
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#. translators: 1: WordPress 2: Theme Author.
+#: footer.php:85
+msgid "Powered by %1$s and %2$s."
+msgstr "Creado por %1$s y %2$s."
+
+#. translators: 1: Year 2: Site URL.
+#: footer.php:79
+msgid "Copyright &#169; %1$s %2$s."
+msgstr "Copyright &#169; %1$s %2$s."
+
+#: functions.php:223
+msgid "Footer 4"
+msgstr "Pie de página 4"
+
+#: functions.php:214
+msgid "Footer 3"
+msgstr "Pie de página 3"
+
+#: functions.php:205
+msgid "Footer 2"
+msgstr "Pie de página 2"
+
+#: functions.php:196
+msgid "Footer 1"
+msgstr "Pie de página 1"
+
+#: functions.php:187
+msgid "Header Sidebar"
+msgstr "Barra lateral de la cabecera"
+
+#: functions.php:180 functions.php:189 functions.php:198 functions.php:207
+#: functions.php:216 functions.php:225
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: functions.php:178
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:128
+msgid "Top Bar Menu"
+msgstr "Menú de la barra superior"
+
+#: functions.php:127 inc/customizer/settings/typography.php:112
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: header.php:34
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#. Author URI of the theme
+msgid "https://themezhut.com/"
+msgstr "https://themezhut.com/"
+
+#. Author of the theme
+msgid "ThemezHut"
+msgstr "ThemezHut"
+
+#. Theme URI of the theme
+msgid "https://themezhut.com/themes/bam/"
+msgstr "https://themezhut.com/themes/bam/"

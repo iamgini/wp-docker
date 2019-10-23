@@ -1,0 +1,33 @@
+.wp-block-quote {
+    border-left: 4px solid $color__primary;
+    margin: 30px 0;
+    padding-left: 1em;
+
+    p {
+        @include font-size(1.25);
+        margin-bottom: 0;
+    }
+
+    cite {
+        margin-top: 10px;
+    }
+}
+
+.wp-block-quote[style*="text-align:right"], .wp-block-quote[style*="text-align: right"] {
+    border-right: 4px solid $color__primary;
+}
+
+.wp-block-pullquote {
+    blockquote {
+        border: none;
+    }
+
+    cite {
+        margin-top: 1.5em;
+        display: inline-block;
+    }
+}
+
+ul.wp-block-gallery {
+    margin: 0 0 30px 0;
+}

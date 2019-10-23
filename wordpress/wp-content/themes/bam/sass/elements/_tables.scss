@@ -1,0 +1,27 @@
+table {
+	border-collapse: collapse;
+	margin: 0 0 1.5em;
+	width: 100%;
+}
+  
+table, th, td {
+	border: 1px solid #ededed;
+}
+  
+th {
+	background: #f8f8f8;
+	padding: 8px 15px;
+	text-align: left;
+}
+  
+.site-footer table, .site-footer th, .site-footer td {
+	border: 1px solid #555;
+}
+  
+.site-footer th {
+	background: #222;
+}
+  
+td {
+	padding: 5px 15px;
+}

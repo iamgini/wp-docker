@@ -1,0 +1,14 @@
+.site-info {
+    background: #000000;
+    color: #dddddd;
+    @include font-size(1);
+    padding: 20px 0;
+
+    a {
+        color: #eeeeee;
+
+        &:hover {
+            color: $color__primary;
+        }
+    }
+}

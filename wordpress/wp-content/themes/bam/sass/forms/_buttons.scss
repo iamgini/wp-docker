@@ -1,0 +1,55 @@
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	border: none;
+	border-radius: 3px;
+	background: $color__background-button;
+	color: #ffffff;
+	cursor: pointer;
+	@include font-size(0.875);
+	font-weight: 600;
+	line-height: 1;
+	padding: 1em 1.5em;
+	text-transform: uppercase;
+
+	&:hover {
+		background: #222222;
+	}
+
+	&:active,
+	&:focus {
+		background: #222222;
+	}
+}
+
+
+.bam-readmore {
+	border-radius: 3px;
+	background: $color__background-button;
+	color: #ffffff;
+	@include font-size(0.875);
+	font-weight: 600;
+	line-height: 1;
+	padding: .6em 1.2em;
+	text-transform: uppercase;
+
+	&:hover {
+		color: #ffffff;
+		background: #222222;
+	}
+
+	&:visited {
+		color: #ffffff;
+	}
+
+	&:active,
+	&:focus {
+		color: #ffffff;
+		background: #222222;
+	}
+}
+
+.entry-readmore {
+	margin: 27px 0 0;
+}

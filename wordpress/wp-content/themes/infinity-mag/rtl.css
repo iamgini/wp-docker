@@ -1,0 +1,83 @@
+/*
+Theme Name: Infinity Mag
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+body .col-xs-1,
+body .col-xs-10,
+body .col-xs-11,
+body .col-xs-12,
+body .col-xs-2,
+body .col-xs-3,
+body .col-xs-4,
+body .col-xs-5,
+body .col-xs-6,
+body .col-xs-7,
+body .col-xs-8,
+body .col-xs-9 {
+    float: right;
+}
+
+@media (min-width: 992px) {
+    body .col-md-1,
+    body .col-md-10,
+    body .col-md-11,
+    body .col-md-12,
+    body .col-md-2,
+    body .col-md-3,
+    body .col-md-4,
+    body .col-md-5,
+    body .col-md-6,
+    body .col-md-7,
+    body .col-md-8,
+    body .col-md-9 {
+        float: right;
+    }
+}
+
+.content-area .widget-row .widget-half-column {
+    float: right;
+}
+
+.widget-row .widget-half-column .post-image {
+    float: right;
+    margin-left: 15px;
+    margin-right: 0;
+}
+
+#widgets-nav {
+    margin-left: 15px;
+    margin-right: auto;
+}
+
+@media (min-width: 992px) {
+    .site-navigation .main-navigation .menu ul li {
+        float: right;
+    }
+
+    .site-navigation .main-navigation .menu > ul {
+        margin-right: auto;
+        margin-left: 80px;
+    }
+}
+
+.main-navigation .menu ul li i {
+    padding-left: 0;
+    padding-right: 10px;
+}
+
+.site-navigation .nav-right {
+    float: left;
+}
+
+body .widget-title:before {
+    right: 0;
+    left: 10px;
+    margin-left: 10px;
+}

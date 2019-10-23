@@ -1,0 +1,74 @@
+/** CSS SLIDER */
+.customize-control-bam-slider {
+    margin: 15px 0;
+}
+
+.bam-slider {
+    -webkit-appearance: none;
+    height: 6px;
+    border-radius: 5px;   
+    background: #cccccc;
+    outline: none;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+    padding: 0;
+    width: 65%;
+    float: left;
+    margin-top: 12px;
+}
+  
+.bam-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%; 
+    background: #0085ba;
+    cursor: pointer;
+}
+  
+.bam-slider::-moz-range-thumb {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #0085ba;
+    cursor: pointer;
+}
+
+/* Slider Text */
+.bam-slider-control-wrapper input.bam-slider-text {
+	width: 21%;
+    height: 28px;
+    text-align: center;
+    margin-left: 3%;
+    border-radius: 4px;
+    padding: 3px;
+    font-size: 12px;
+    font-weight: 600;
+    color: #555;
+    float: left;
+}
+
+/* Reset Button */
+.bam-slider-control-wrapper span.bam-slider-reset {
+    display: inline-block;
+    position: relative;
+    width: 6%;
+    margin-top: 6px;
+    margin-left: 2%;
+    line-height: 1;
+    color: rgba(0,0,0,.2);
+    cursor: pointer;
+    text-align: center;
+}
+
+.bam-slider-control-wrapper span.bam-slider-reset span {
+    width: 16px;
+    height: 16px;
+    font-size: 16px;
+    line-height: 1;
+}
+
+.bam-slider-control-wrapper span.bam-slider-reset span:hover {
+    color: #FF4F4F;
+}

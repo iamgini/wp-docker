@@ -1,0 +1,955 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-03-04 06:32+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "404"
+msgstr ""
+
+#: 404.php:21
+msgid "error"
+msgstr ""
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location."
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:55 comments.php:76
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:58 comments.php:79
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:59 comments.php:80
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:93
+msgid "Comments are closed."
+msgstr ""
+
+#. Name of the theme
+#: footer.php:31 inc/customizer/footer-panel.php:144
+msgid "Owner"
+msgstr ""
+
+#: footer.php:34
+#, php-format
+msgid "%1$s by %2$s."
+msgstr ""
+
+#: functions.php:69
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:70
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:70
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/owner-functions.php:78
+msgid "Select Category"
+msgstr ""
+
+#: inc/template-tags.php:30
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:35
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:52 inc/template-tags.php:58
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:54
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:60
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. %s: post title
+#: inc/template-tags.php:67
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:74 template-parts/content-page.php:33
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:22 template-parts/content-single.php:33
+#: template-parts/content.php:42
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:28
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:33
+msgid "About"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:69
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/about-theme/owner-about.php:73
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:87
+msgid "Dismiss"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:88
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing owner! To fully take advantage of the best "
+"our theme can offer please make sure you visit our %1$s welcome page %2$s."
+msgstr ""
+
+#: inc/about-theme/owner-about.php:90
+msgid "Get started with owner"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:110
+#, php-format
+msgid "About %1$s %2$s"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:123
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:125
+msgid "View Demo"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:127 inc/about-theme/owner-about.php:200
+msgid "View PRO version"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:129
+msgid "Rate this theme"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:138
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:142
+msgid "More Themes"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:146
+msgid "Changelog"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:180
+msgid "Theme Customizer"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:181
+msgid "All Theme Options are available via Customize screen."
+msgstr ""
+
+#: inc/about-theme/owner-about.php:182 inc/about-theme/owner-about.php:269
+msgid "Customize"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:186 inc/about-theme/owner-about.php:188
+msgid "Documentation"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:187
+msgid "Please view our documentation page to setup the theme."
+msgstr ""
+
+#: inc/about-theme/owner-about.php:192
+msgid "Got theme support question?"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:193
+msgid "Please put it in our dedicated support forum."
+msgstr ""
+
+#: inc/about-theme/owner-about.php:194
+msgid "Support"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:198
+msgid "Need more features?"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:199 inc/about-theme/owner-about.php:431
+msgid "Upgrade to PRO version for more exciting features."
+msgstr ""
+
+#: inc/about-theme/owner-about.php:204
+msgid "Have you need customization?"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:205
+msgid "Please send message with your requirement."
+msgstr ""
+
+#: inc/about-theme/owner-about.php:206
+msgid "Customization"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:210 inc/about-theme/owner-about.php:214
+#, php-format
+msgid "Translate %s"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:211
+msgid "Click below to translate this theme into your own language."
+msgstr ""
+
+#: inc/about-theme/owner-about.php:224
+msgid "Return to Updates"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:224
+msgid "Return to Dashboard &rarr; Updates"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:227
+msgid "Go to Dashboard &rarr; Home"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:227
+msgid "Go to Dashboard"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:267
+msgid "Active"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:305
+msgid "Activate"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:314
+#, php-format
+msgid "Downloaded %s times"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:314
+msgid "Install Now"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:317
+msgid "Live Preview"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:379
+msgid "View changelog below:"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:436
+msgid "Features"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:437
+msgid "owner"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:438
+msgid "owner Pro"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:443
+msgid "Price"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:444
+msgid "Free"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:445
+msgid "$55"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:448
+msgid "Import Demo Data"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:453
+msgid "Repeater Field"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:458
+msgid "Multiple Layouts"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:463
+msgid "WooCommerce Plugin Compatible"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:468
+msgid "Pre Loaders"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:473
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:474
+msgid "1"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:475
+msgid "2"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:478
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:480
+msgid "600+"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:483
+msgid "Typography Options"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:488
+msgid "No. of Widgets"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:489
+msgid "5"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:490
+msgid "8+"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:493
+msgid "Custom Post Type"
+msgstr ""
+
+#: inc/about-theme/owner-about.php:501
+msgid "View Pro"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:32
+msgid "Additional Settings"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:44
+msgid "Social Icons"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:56
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:57
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:58
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:59
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:60
+msgid "Google Plus"
+msgstr ""
+
+#: inc/customizer/additional-panel.php:61
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer/customizer-custom-classes.php:29
+msgid "&mdash; Select Category &mdash;"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:45
+#: inc/customizer/general-panel.php:83
+msgid "Wide Layout"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:46
+#: inc/customizer/general-panel.php:84
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:62
+#: inc/customizer/design-panel.php:116
+msgid "Classic Layout"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:63
+#: inc/customizer/design-panel.php:117
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:79 inc/customizer/footer-panel.php:71
+#: inc/customizer/header-panel.php:74 inc/customizer/header-panel.php:172
+#: inc/customizer/header-panel.php:244
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/customizer-sanitize.php:80 inc/customizer/footer-panel.php:72
+#: inc/customizer/header-panel.php:75 inc/customizer/header-panel.php:173
+#: inc/customizer/header-panel.php:245
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/customizer.php:51
+msgid "Owner Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:52
+msgid "Buy Pro"
+msgstr ""
+
+#: inc/customizer/design-panel.php:35
+msgid "Design Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:47
+msgid "Archive Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:69
+msgid "Archive Sidebars"
+msgstr ""
+
+#: inc/customizer/design-panel.php:70 inc/customizer/design-panel.php:154
+#: inc/customizer/design-panel.php:210
+msgid "Choose sidebar from available layouts"
+msgstr ""
+
+#: inc/customizer/design-panel.php:74 inc/customizer/design-panel.php:158
+#: inc/customizer/design-panel.php:214 inc/widgets/owner-widget-areas.php:38
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/design-panel.php:78 inc/customizer/design-panel.php:162
+#: inc/customizer/design-panel.php:218 inc/widgets/owner-widget-areas.php:23
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/design-panel.php:82 inc/customizer/design-panel.php:166
+#: inc/customizer/design-panel.php:222
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/design-panel.php:86 inc/customizer/design-panel.php:170
+#: inc/customizer/design-panel.php:226
+msgid "No Sidebar Center"
+msgstr ""
+
+#: inc/customizer/design-panel.php:112
+msgid "Archive Layout"
+msgstr ""
+
+#: inc/customizer/design-panel.php:113
+msgid "Choose layout from available layouts."
+msgstr ""
+
+#: inc/customizer/design-panel.php:131
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:153
+msgid "Page Sidebars"
+msgstr ""
+
+#: inc/customizer/design-panel.php:187
+msgid "Post Settings"
+msgstr ""
+
+#: inc/customizer/design-panel.php:209
+msgid "Post Sidebars"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:32
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:44
+msgid "Footer Widget Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:67
+msgid "Footer Widget Option"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:68
+msgid "Show/hide option for widget area located in footer section."
+msgstr ""
+
+#: inc/customizer/footer-panel.php:95
+msgid "Footer Widget Layout"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:96
+msgid "Choose layout from available layouts"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:100
+msgid "Columns Four"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:104
+msgid "Columns Three"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:108
+msgid "Columns Two"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:112
+msgid "Column One"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:130
+msgid "Bottom Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer-panel.php:153
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/frontpage-panel.php:32
+msgid "FrontPage Settings"
+msgstr ""
+
+#: inc/customizer/frontpage-panel.php:44
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/frontpage-panel.php:67
+msgid "Slider Category"
+msgstr ""
+
+#: inc/customizer/frontpage-panel.php:68
+msgid "Select category slider for only in homepage."
+msgstr ""
+
+#: inc/customizer/general-panel.php:23
+msgid "Site Logo/Title/Favicon"
+msgstr ""
+
+#: inc/customizer/general-panel.php:43
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/general-panel.php:56
+msgid "Website Layout"
+msgstr ""
+
+#: inc/customizer/general-panel.php:79
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/general-panel.php:80
+msgid "Select the website layout."
+msgstr ""
+
+#: inc/customizer/general-panel.php:106
+msgid "Theme Skin Color"
+msgstr ""
+
+#: inc/customizer/general-panel.php:107
+msgid "Choose website skin color from available options."
+msgstr ""
+
+#: inc/customizer/general-panel.php:111
+msgid "Skin 1"
+msgstr ""
+
+#: inc/customizer/general-panel.php:115
+msgid "Skin 2"
+msgstr ""
+
+#: inc/customizer/general-panel.php:119
+msgid "Skin 3"
+msgstr ""
+
+#: inc/customizer/general-panel.php:147
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer/general-panel.php:170
+msgid "Display Site Title and Tagline"
+msgstr ""
+
+#: inc/customizer/header-panel.php:34
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/header-panel.php:47
+msgid "Top Header Settings"
+msgstr ""
+
+#: inc/customizer/header-panel.php:70
+msgid "Top Header Option"
+msgstr ""
+
+#: inc/customizer/header-panel.php:71
+msgid "Show/hide option for top header section."
+msgstr ""
+
+#: inc/customizer/header-panel.php:99
+msgid "Header Address"
+msgstr ""
+
+#: inc/customizer/header-panel.php:122
+msgid "Header E-mail"
+msgstr ""
+
+#: inc/customizer/header-panel.php:145
+msgid "Header Phone"
+msgstr ""
+
+#: inc/customizer/header-panel.php:168
+msgid "Top Social Icons"
+msgstr ""
+
+#: inc/customizer/header-panel.php:169
+msgid "Show/hide option for Social Icons at top."
+msgstr ""
+
+#: inc/customizer/header-panel.php:188
+msgid "Additional Header Settings"
+msgstr ""
+
+#: inc/customizer/header-panel.php:211
+msgid "Header Sticky"
+msgstr ""
+
+#: inc/customizer/header-panel.php:212
+msgid "Enable/Disable header sticky option."
+msgstr ""
+
+#: inc/customizer/header-panel.php:215
+msgid "Enable"
+msgstr ""
+
+#: inc/customizer/header-panel.php:216
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/header-panel.php:240
+msgid "Search Icon"
+msgstr ""
+
+#: inc/customizer/header-panel.php:241
+msgid "show/hide search icon at primary menu section."
+msgstr ""
+
+#. $id
+#: inc/metaboxes/page-metabox.php:16
+msgid "Page Options"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:29 inc/metaboxes/post-metabox.php:29
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:35 inc/metaboxes/post-metabox.php:35
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:41 inc/metaboxes/post-metabox.php:41
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:47 inc/metaboxes/post-metabox.php:47
+msgid "No sidebar Full width"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:53 inc/metaboxes/post-metabox.php:53
+msgid "No sidebar Content Centered"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:72 inc/metaboxes/post-metabox.php:72
+msgid "Information"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:73 inc/metaboxes/post-metabox.php:73
+msgid "Sidebars"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:80 inc/metaboxes/post-metabox.php:80
+msgid "About Metabox Options"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:82 inc/metaboxes/post-metabox.php:82
+msgid "At Metabox there are option for sidebars."
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:88 inc/metaboxes/post-metabox.php:88
+msgid "Available Sidebars"
+msgstr ""
+
+#: inc/metaboxes/page-metabox.php:89 inc/metaboxes/post-metabox.php:89
+msgid ""
+"Select sidebar from available options which replaced sidebar layout from "
+"customizer settings."
+msgstr ""
+
+#. $id
+#: inc/metaboxes/post-metabox.php:16
+msgid "Post Options"
+msgstr ""
+
+#: inc/widgets/owner-call-to-action.php:23
+msgid "Display content as Call To Action."
+msgstr ""
+
+#: inc/widgets/owner-call-to-action.php:25
+msgid "Owner : Call To Action"
+msgstr ""
+
+#: inc/widgets/owner-call-to-action.php:40
+#: inc/widgets/owner-testimonials-widget.php:53
+msgid "Section Background Image"
+msgstr ""
+
+#: inc/widgets/owner-call-to-action.php:46
+msgid "Section Content"
+msgstr ""
+
+#: inc/widgets/owner-call-to-action.php:53
+msgid "Section Button Text"
+msgstr ""
+
+#: inc/widgets/owner-call-to-action.php:59
+msgid "Section Button Url"
+msgstr ""
+
+#: inc/widgets/owner-grid-layout.php:23
+msgid "Display posts from selected category as grid view."
+msgstr ""
+
+#: inc/widgets/owner-grid-layout.php:25
+msgid "Owner : Grid Items"
+msgstr ""
+
+#: inc/widgets/owner-grid-layout.php:40
+#: inc/widgets/owner-latest-blog-widget.php:40
+#: inc/widgets/owner-portfolio-widget.php:40
+#: inc/widgets/owner-sponsors-widget.php:41
+#: inc/widgets/owner-team-widget.php:40
+#: inc/widgets/owner-testimonials-widget.php:40
+msgid "Section Title"
+msgstr ""
+
+#: inc/widgets/owner-grid-layout.php:46
+#: inc/widgets/owner-latest-blog-widget.php:46
+#: inc/widgets/owner-portfolio-widget.php:46
+#: inc/widgets/owner-sponsors-widget.php:47
+#: inc/widgets/owner-team-widget.php:46
+#: inc/widgets/owner-testimonials-widget.php:46
+msgid "Section Info"
+msgstr ""
+
+#: inc/widgets/owner-grid-layout.php:53
+#: inc/widgets/owner-portfolio-widget.php:53
+#: inc/widgets/owner-sponsors-widget.php:54
+#: inc/widgets/owner-team-widget.php:53
+#: inc/widgets/owner-testimonials-widget.php:59
+msgid "Section Category"
+msgstr ""
+
+#: inc/widgets/owner-grid-layout.php:61
+#: inc/widgets/owner-latest-blog-widget.php:60
+#: inc/widgets/owner-portfolio-widget.php:61
+#: inc/widgets/owner-team-widget.php:61
+msgid "Section Post Count"
+msgstr ""
+
+#: inc/widgets/owner-latest-blog-widget.php:23
+msgid "Display latest posts except from selected categories."
+msgstr ""
+
+#: inc/widgets/owner-latest-blog-widget.php:25
+msgid "Owner: Latest Blog"
+msgstr ""
+
+#: inc/widgets/owner-latest-blog-widget.php:53
+msgid "Section Categories"
+msgstr ""
+
+#: inc/widgets/owner-latest-blog-widget.php:67
+msgid "Section button text"
+msgstr ""
+
+#: inc/widgets/owner-latest-blog-widget.php:92
+msgid "Read More"
+msgstr ""
+
+#: inc/widgets/owner-portfolio-widget.php:23
+msgid "Display posts from selected category show in fullwidth"
+msgstr ""
+
+#: inc/widgets/owner-portfolio-widget.php:25
+msgid "Owner : Portfolio"
+msgstr ""
+
+#: inc/widgets/owner-sponsors-widget.php:24
+msgid "Display posts from sponsors category"
+msgstr ""
+
+#: inc/widgets/owner-sponsors-widget.php:26
+msgid "Owner: Sponsors"
+msgstr ""
+
+#: inc/widgets/owner-team-widget.php:23
+msgid "Display posts from selected category show as team layout."
+msgstr ""
+
+#: inc/widgets/owner-team-widget.php:25
+msgid "Owner : Team"
+msgstr ""
+
+#: inc/widgets/owner-testimonials-widget.php:23
+msgid "Display posts from selected category as testimonials layout."
+msgstr ""
+
+#: inc/widgets/owner-testimonials-widget.php:25
+msgid "Owner : Testimonials"
+msgstr ""
+
+#: inc/widgets/owner-widget-areas.php:25 inc/widgets/owner-widget-areas.php:40
+#: inc/widgets/owner-widget-areas.php:55
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/owner-widget-areas.php:53
+msgid "Homepage Section Area"
+msgstr ""
+
+#: inc/widgets/owner-widget-areas.php:68
+#, php-format
+msgid "Footer Area %d"
+msgstr ""
+
+#: inc/widgets/owner-widget-areas.php:70
+msgid "Added widgets are display at Footer Widget Area."
+msgstr ""
+
+#: inc/widgets/owner-widget-fields.php:107
+msgid "No image selected"
+msgstr ""
+
+#: inc/widgets/owner-widget-fields.php:114
+msgid "Remove"
+msgstr ""
+
+#: inc/widgets/owner-widget-fields.php:115
+msgid "Select Image"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Owner is a powerful Free WordPress Theme which is easy to use, highly "
+"customizable and well-designed Multi-Purpose Business Theme. Theme displays "
+"your site in the best possible way on smartphones, tablets, and laptops, as "
+"well as large desktop screens. The theme include many features that was most "
+"needed for the multipurpose theme. We have great customer support via email, "
+"support forum. View full Demo here: http://demo.mysterythemes.com/owner/ | "
+"Support: https://mysterythemes.com/support/forum/themes/free-themes/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://mysterythemes.com/wp-themes/owner/"
+msgstr ""
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr ""
+
+#. URI of the theme
+msgid "https://mysterythemes.com"
+msgstr ""

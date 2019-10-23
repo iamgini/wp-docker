@@ -1,0 +1,82 @@
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea {
+	color: $color__text-input;
+	border: 1px solid $color__border-input;
+	padding: 5px;
+
+	&:focus {
+		color: $color__text-input-focus;
+	}
+}
+
+select {
+	border: 1px solid $color__border-input;
+}
+
+textarea {
+	width: 100%;
+}
+
+
+.bam-navigation-container {
+	position: relative;
+}
+  
+.bam-search-box-container {
+	display: none;
+}
+  
+.bam-search-box-container {
+	background: #fff;
+	border: 3px solid #E3E3E3;
+	display: none;
+	padding: 5px;
+	position: absolute;
+	right: 0;
+	top: 50px;
+	width: 350px;
+	z-index: 999;
+}
+  
+.bam-search-box input[type="submit"] {
+	border-radius: 0;
+	box-shadow: none;
+	border: none;
+	height: 40px;
+	line-height: 40px;
+	padding: 0;
+	text-shadow: none;
+	text-transform: uppercase;
+	width: 92px;
+	cursor: pointer;
+}
+.bam-search-box input[type="submit"]:focus {
+	outline: none;
+}
+.bam-search-box input[type="search"] {
+	background: #f1f1f1;
+	border: none;
+	float: left;
+	height: 40px;
+	margin: 0;
+	padding: 0 11px;
+	width: 242px;
+	border-radius: 0;
+}
+.bam-search-box input[type="search"]:focus {
+	outline: none;
+} 

@@ -1,0 +1,157 @@
+.site-logo-image {
+    float: left;
+    margin-right: 10px;
+
+    img {
+        width: auto;
+    }
+}
+
+.site-branding-text {
+    float: left;
+}
+
+/* Default style */
+.site-header.default-style {
+
+    #site-header-inner {
+        padding-top: 28px;
+        padding-bottom: 28px;
+        height: 100%;
+    }
+
+    .site-branding {
+        float: left;
+        height: 100%;
+    }
+
+    .header-sidebar {
+        float: right;
+
+        .widget {
+            margin: 0;
+        }
+    }
+
+    #site-header-inner.right-logo,
+    #site-header-inner.left-logo {
+        .header-sidebar {
+            @media ( max-width: 850px ) {
+                margin-top: 20px; 
+            }
+        }
+    }
+
+
+    #site-header-inner.center-logo {
+        text-align: center;
+    
+        .site-branding {
+            float: none;
+            display: inline-block;
+            margin: 0 auto;
+        }
+    
+        .header-sidebar {
+            display: table;
+            float: none;
+            margin-top: 20px;
+            margin-bottom: 0;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    }
+    
+    #site-header-inner.right-logo {
+        .site-branding {
+            float: right;
+            text-align: right;
+        }
+        
+        .header-sidebar {
+            float: left;
+        }
+    }
+    
+}
+
+.site-title {
+    font-family: 'Source Sans Pro';
+    @include font-size(2.75);
+    font-weight: bold;
+    margin: 0;
+    line-height: 1.2;
+
+    a {
+        color: $color__primary;
+
+        &:hover {
+            color: #000000;
+        }
+    }
+}
+
+.site-description {
+    @include font-size(1);
+    margin: 0 0 10px;
+}
+
+/* Horizontal style */
+.site-header.horizontal-style {
+    
+    #site-header-inner-wrap {
+        background: #141414;
+    }
+
+    .site-branding {
+        float: left;
+        display: table;
+        height: 100%;
+    }
+
+    .site-branding-inner {
+        display: table-cell;
+        vertical-align: middle;
+        height: 65px;
+    }
+
+    .site-title {
+        font-size: 36px;
+
+        a:hover {
+            color: #dddddd;
+        }
+    }
+
+    .site-description {
+        color: #cccccc;
+        font-size: 14px;
+        margin: 0;
+    }
+
+    .main-navigation {
+        float: right;
+    }
+
+    .header-sidebar {
+        width: 100%;
+        float: none;
+        background: #eeeeee;
+        padding: 20px;
+
+        .widget {
+            margin: 0;
+        }
+
+        @media ( max-width: 576px ) {
+            padding: 10px;
+        } 
+    }
+
+    .header-sidebar-inner {
+        margin: 0 auto;
+        display: table;
+        max-width: 1400px;
+    }
+
+}

@@ -1,0 +1,209 @@
+.bam-topbar {
+    border-bottom: 1px solid #eeeeee;
+    background: #f5f5f5;
+
+    .bam-social-link {
+        i {
+            font-size: 14px;
+            line-height: 35px;
+            padding: 0 5px
+        }
+    }
+
+    @media (min-width: 992px) {
+        height: 35px;
+    }
+
+}
+
+.bam-topbar-social {
+    float: right;
+}
+
+.bam-topbar-social.colored {
+
+    .bam-social-link.facebook i  {
+        color: #3b5998;
+    }
+
+    .bam-social-link.twitter i {
+        color: #33ccff;
+    }
+
+    .bam-social-link.dribbble i {
+        color: #ea4c89;
+    }
+
+    .bam-social-link.pinterest i { 
+        color: #c8232c;
+    }
+
+    .bam-social-link.github i { 
+        color: #171515;
+    }
+
+    .bam-social-link.tumblr i { 
+        color: #34526f;
+    }
+
+    .bam-social-link.youtube i { 
+        color: #c4302b;
+    }
+
+    .bam-social-link.flickr i { 
+        color: #ff0084;
+    }
+
+    .bam-social-link.vimeo i { 
+        color: #1AB7EA;
+    }
+
+    .bam-social-link.instagram i { 
+        color: #3f729b;
+    }
+
+    .bam-social-link.codepen i { 
+        color: #000;
+    }
+
+    .bam-social-link.linkedin i { 
+        color: #0e76a8;
+    }
+
+    .bam-social-link.yelp i { 
+        color: #d32323;
+    }
+
+    .bam-social-link.skype i { 
+        color: #00aff0;
+    }
+
+    .bam-social-link.vk i { 
+        color: #45668e;
+    }
+
+    .bam-social-link.email i { 
+        color: #e4b872;
+    }
+
+    .bam-social-link.vine i { 
+        color: #00b488;
+    }
+
+    .bam-social-link.tripadvisor i { 
+        color: #00af87;
+    }
+
+    .bam-social-link.rss i { 
+        color: #f26522;
+    }
+
+    .bam-social-link i:hover {
+        color: #222222;
+    }
+
+}
+
+.bam-topbar-social.dark {
+
+    .bam-social-link i {
+        color: #333333;
+    }
+
+    .bam-social-link i:hover { 
+        color: #d32323;
+    }    
+
+}
+
+.bam-topbar-social.light {
+
+    .bam-social-link i {
+        color: #dddddd;
+    }
+
+    .bam-social-link.tripadvisor i:hover { 
+        color: #00af87;
+    }
+
+    .bam-social-link.rss i:hover { 
+        color: #f26522;
+    }
+
+    .bam-social-link.vine i:hover { 
+        color: #00b488;
+    }
+
+    .bam-social-link.email i:hover { 
+        color: #e4b872;
+    }
+
+    .bam-social-link.vk i:hover { 
+        color: #45668e;
+    }
+
+    .bam-social-link.skype i:hover { 
+        color: #00aff0;
+    }
+
+    .bam-social-link.facebook i:hover  {
+        color: #3b5998;
+    }
+
+    .bam-social-link.twitter i:hover {
+        color: #33ccff;
+    }
+
+    .bam-social-link.dribbble i:hover {
+        color: #ea4c89;
+    }
+
+    .bam-social-link.pinterest i:hover { 
+        color: #c8232c;
+    }
+
+    .bam-social-link.github i:hover { 
+        color: #171515;
+    }
+
+    .bam-social-link.tumblr i:hover { 
+        color: #34526f;
+    }
+
+    .bam-social-link.youtube i:hover { 
+        color: #c4302b;
+    }
+
+    .bam-social-link.flickr i:hover { 
+        color: #ff0084;
+    }
+
+    .bam-social-link.vimeo i:hover { 
+        color: #1AB7EA;
+    }
+
+    .bam-social-link.instagram i:hover { 
+        color: #3f729b;
+    }
+
+    .bam-social-link.codepen i:hover { 
+        color: #000;
+    }
+
+    .bam-social-link.linkedin i:hover { 
+        color: #0e76a8;
+    }
+
+    .bam-social-link.yelp i:hover { 
+        color: #d32323;
+    }    
+
+}
+
+.bam-date {
+    line-height: 35px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 25px;
+    float: left;
+}

@@ -1,0 +1,53 @@
+.bm-info-wrap {
+    padding: 30px 30px 200px 30px;
+    background: #ffffff;
+    clear: both;
+    overflow: hidden;
+}
+
+.bm-info-wrap p {
+    color: #555555;
+}
+
+h1.theme-info-heading {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 0 0 35px;
+}
+
+.bm-info-box {
+    margin: 30px 0 0 0;
+    text-align: center;
+}
+
+.bm-info-box-inner {
+    padding: 20px 20px 30px 20px;
+    border: 1px solid #dddddd;
+}
+
+.bm-info-box p {
+    margin-bottom: 25px;
+}
+
+.bm-info-box .dashicons {
+    font-size: 28px;
+}
+
+@media (min-width: 768px) {
+    .bm-info-box {
+        width: 48.571428571428571%;
+        float: left;
+    }
+
+    .bm-info-box:nth-of-type(2n+1) {
+        margin-right: 2.857142857142857%;
+    }
+}
+
+h3.bm-info-title {
+    margin-top: 20px;
+}
+
+.bm-clr {
+    clear: both;
+}
